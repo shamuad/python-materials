@@ -14,15 +14,17 @@ def square_area(side_lenght) :
     
 # Funtion calculates circle area and return the result
 def circle_area(radius) :
-    return math.pi * radius ** 2    
-
+    return math.pi * radius ** 2
+    
+      
 ifchosed = True
 while ifchosed == True :
-    choice = int(raw_input("\n1) Triangle \n2) Rectangle \n3) Square \n4) Circle \n5) Quit \n\nwhich shape ? "))
-    if type(choice) != int :
+    choice = raw_input("\n1) Triangle \n2) Rectangle \n3) Square \n4) Circle \n5) Quit \n\nwhich shape ? ")    
+    if choice.isdigit() == False :
          print "You have to give numeric number"
          continue
-    else :      
+    else :  
+        choice = int(choice)    
         if  choice == 1 :
             base = int(raw_input("Enter the base of triangle : "))
             height = int(raw_input("Enter the height of triangle : "))
