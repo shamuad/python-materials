@@ -1,0 +1,4 @@
+Birinci satir - Adim : Ari 
+Ikinci satir - Soyadim : Dinar
+
+Dorduncu satir - TC : 11612500208

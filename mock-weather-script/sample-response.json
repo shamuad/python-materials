@@ -1,0 +1,40 @@
+{
+	"Countries": [{
+		"Cities": [{
+			"Id": "53a019ce-3ffd-4079-981b-26f02fd3b556",
+			"CityName": "Istanbul",
+			"Temp": {
+				"Value": 25,
+				"Unit": "C"
+			}
+		}, {
+			"Id": "b49f1c60-23ea-4283-ade6-21518b016cf1",
+			"CityName": "Ankara",
+			"Temp": {
+				"Value": 21,
+				"Unit": "C"
+			}
+		}, {
+			"Id": "b27009d0-db9d-41d4-9532-19f1927effcd",
+			"CityName": "Izmir",
+			"Temp": {
+				"Value": 30,
+				"Unit": "C"
+			}
+		}, {
+			"Id": "e9d7839f-dca8-4344-9bc8-6ca6f1e32ecd",
+			"CityName": "Izmir",
+			"Temp": {
+				"Value": 30,
+				"Unit": "C"
+			}
+		}],
+		"CountryCode": "TR"
+
+
+	}, {
+		"Cities": null,
+		"CountryCode": "UK"
+
+	}]
+}
