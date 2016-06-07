@@ -22,10 +22,10 @@
 				"Unit": "C"
 			}
 		}, {
-			"Id": "e9d7839f-dca8-4344-9bc8-6ca6f1e32ecd",
-			"CityName": "Izmir",
+			"Id": "c1857551-f950-4ec0-bc33-549c657989ca",
+			"CityName": "Mersin",
 			"Temp": {
-				"Value": 30,
+				"Value": 32,
 				"Unit": "C"
 			}
 		}],
