@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mock-weather-script.iml" filepath="$PROJECT_DIR$/.idea/mock-weather-script.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python-materials.iml" filepath="$PROJECT_DIR$/.idea/python-materials.iml" />
     </modules>
   </component>
 </project>
